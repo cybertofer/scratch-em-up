@@ -1,0 +1,20 @@
+hey guys, thanks for comming.
+
+there is 2 main things to do. 
+
+1st create a level than a game :)
+2nd My way to give the ship position is by a puredata patch i worked on. the best is to incorporate a timecoded analyser 
+in the game by it self.
+
+
++++++++++++++++++++++++++++
+create the game
++++++++++++++++++++++++++++
+
+
+the way to move the ship is simply by x mouse position in space.
+[the x position is given by the needle position on vinyl, analysed by pure data and converted in mouse position]
+
+
+to begin we just need to animate some ennemies than make the ship moving
+
