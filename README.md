@@ -5,6 +5,8 @@ http://vimeo.com/68831522
 -----------------------------------------
 
 
+<iframe src="http://player.vimeo.com/video/68831522" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/68831522">scratch hero véron christophe aka vj_muddy aka dj mohmtiess dj hero shoot em up</a> from <a href="http://vimeo.com/user19086161">tof le pof</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
 shoot em up learning you how to scratch
 
 first try and development idea of my scratch em up game.
